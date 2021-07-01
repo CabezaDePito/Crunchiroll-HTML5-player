@@ -1,4 +1,4 @@
-# Crunchiroll-HTML5-player
+# Crunchyroll-HTML5-player
 
 
  Unnoficial html player for Crunchyroll
